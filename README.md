@@ -8,3 +8,5 @@ Ivy
 # Perspective
 
 [Science Careers](https://www.sciencemag.org/careers)
+
+[The Era of Online Learning | Niema Moshiri | TEDxUCSD](https://www.youtube.com/watch?v=5JKgUoY9pTg)
