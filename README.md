@@ -2,6 +2,8 @@
 
 [scienceintheclassroom](https://www.scienceintheclassroom.org/)
 
+[DNA Learning Center](https://dnalc.cshl.edu/)
+
 # Moocs
 
 [KITP Online Talks](http://online.kitp.ucsb.edu/)
@@ -19,6 +21,8 @@
 [Science Careers](https://www.sciencemag.org/careers)
 
 [The Era of Online Learning | Niema Moshiri | TEDxUCSD](https://www.youtube.com/watch?v=5JKgUoY9pTg)
+
+[Online learning: keep doing/stop doing/start doing](https://twitter.com/CassieChristop/status/1259900503686877184)
 
 # Book
 
